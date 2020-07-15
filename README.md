@@ -11,14 +11,15 @@
 ***This profile is in daily progress
 
 ```Python
-cleo = {
-  'pronouns': "He" | "Him",
-  'code': "Python",
-  'in_progress': "JavaScript, CSS, HTML",
-  'os': "Linux, Windows",
+def cleo():
+  pronouns = "He | Him"
+  code = "Python"
+  in_progress = "JavaScript, CSS, HTML"
+  os = "Linux, Windows",
+  lang = "English, Spanish, Portuguese"
   
- 'objective': "I want an opportunity to start in the field and be able to show
- that I can learn and execute everything that is proposed to me."
+ print('objective': "I want an opportunity to start in the field and be able to show
+ that I can learn and execute everything that is proposed to me.')
 }
 ```
 
