@@ -12,12 +12,12 @@
 
 ```Python
 cleo = dic(
-  pronouns: "He" | "Him",
-  code: "Python",
-  in_progress: "JavaScript, CSS, HTML",
-  OS: "Linux, Windows",
+  'pronouns': "He" | "Him",
+  'code': "Python",
+  'in_progress': "JavaScript, CSS, HTML",
+  'OS': "Linux, Windows",
   
- objective: "I want an opportunity to start in the field and be able to show that I can learn and execute everything that is proposed to me."
+ 'objective': "I want an opportunity to start in the field and be able to show that I can learn and execute everything that is proposed to me."
 )
 ```
 
