@@ -3,23 +3,23 @@
 <p><em>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)
 
 [![Twitter: Menemezis](https://img.shields.io/twitter/follow/Menemezis?style=social)](https://twitter.com/Menemezis)
-[![Linkedin: Cleo Menezes Jr.](https://img.shields.io/badge/-cleomenezesjr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=cleo-menezes-jr-907a92191)]
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
 [![GitHub CleoMenezes](https://img.shields.io/github/followers/CleoMenezes?label=follow&style=social)](https://github.com/CleoMenezes)
 
 
 ### A little more about me...  
 ***This profile is in daily progress
 
-```PYTHON
-def cleo():
-  pronouns = 'He | Him'
-  code = 'Python'
-  in_progress = 'JavaScript, CSS, HTML'
-  os = 'Linux, Windows'
-  lang = 'English, Spanish, Portuguese'
+```Python
+cleo = {
+  'pronouns': "He" | "Him",
+  'code': "Python",
+  'in_progress': "JavaScript, CSS, HTML",
+  'os': "Linux, Windows",
   
-print('want an opportunity to start in the field and be able to show
- that I can learn and execute everything that is proposed to me.)'
+ 'objective': "I want an opportunity to start in the field and be able to show
+ that I can learn and execute everything that is proposed to me."
+}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
