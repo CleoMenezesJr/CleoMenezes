@@ -11,14 +11,14 @@
 ***This profile is in daily progress
 
 ```Python
-cleo = dic(
+cleo = {
   'pronouns': "He" | "Him",
   'code': "Python",
   'in_progress': "JavaScript, CSS, HTML",
-  'OS': "Linux, Windows",
+  'os': "Linux, Windows",
   
  'objective': "I want an opportunity to start in the field and be able to show that I can learn and execute everything that is proposed to me."
-)
+}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
