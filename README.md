@@ -1,5 +1,5 @@
 <h1>Cleo Menezes Jr.</h2>
-<p>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)></p>
+<p>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</p>
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleo-menezes-jr/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleo.menemezes/)
