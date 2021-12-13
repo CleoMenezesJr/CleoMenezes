@@ -10,6 +10,6 @@
 
 
 
-<img height="170" src="https://github-r eadme-stats.vercel.app/api?username=CleoMenezes&theme=react&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CleoMenezes&theme=react&show_icons=true" />
 <br>
-<img src="https://github-readme-s tats.vercel.app/api/top-langs/?username=CleoMenezes&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleoMenezes&theme=react" />
